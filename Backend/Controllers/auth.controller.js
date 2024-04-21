@@ -15,4 +15,4 @@ export const logout = (req,res)=>{
     res.send('logout user')
 
     console.log('logout User')
-}
+} 
