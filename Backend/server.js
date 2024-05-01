@@ -8,7 +8,7 @@ import messageRoutes from "./Routes/message.routes.js";
 import userRoutes from "./Routes/user.routes.js";
 import { app, server } from "./Socket/socket.js";
 
-import connectToMongoDB from "./DB/connecttoMongoDB.js";
+import connectToMongoDB from "./DB/connectToMongoDB.js";
 
 // Variables
 
